@@ -1,4 +1,4 @@
-# Quick Reply Extension
+# Gemini Quick Reply Extension
 
 A lightweight Chrome extension that enhances your experience by adding a convenient "Quick Reply" button beneath AI model responses. It allows you to easily quote and reply to specific messages with a single click.
 
@@ -15,7 +15,6 @@ Since this extension is intended for personal use and development, you can insta
 1. Clone this repository to your local machine:
    ```bash
    git clone [https://github.com/umaad/Extension_quick-reply.git](https://github.com/umaad/Extension_quick-reply.git)
-
    Open Google Chrome and navigate to the extensions page: chrome://extensions/.
 
 Toggle Developer mode ON (in the top right corner).
